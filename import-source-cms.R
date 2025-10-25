@@ -5,8 +5,8 @@ library(tidyverse)
 library(arrow)
 
 # process cost reports from these years
-START_YEAR <- 2004
-END_YEAR <- 20
+START_YEAR <- 2003
+END_YEAR <- 2014
 
 # where is the source data?
 SOURCE_BASE <- "./source"
